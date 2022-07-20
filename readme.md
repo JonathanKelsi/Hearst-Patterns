@@ -1,7 +1,7 @@
 # Hearst Patterns
 
 This project provides two main features:
-1. Given a corpus, where each noun phrase is tagged with ```'<np></np>'```, the program creates a database of hypernym relations in the format:
+1. Given a corpus, where each noun phrase is tagged with ```<np></np>```, the program creates a database of hypernym relations in the format:
 ```txt
 hypernym: hyponym1 (x), hyponym2 (x) ...
 hypernym: hyponym1 (x), hyponym2 (x) ...
